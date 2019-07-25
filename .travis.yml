@@ -20,5 +20,3 @@ after_success:
   - docker push gabrielchong1994/multi-nginx
   - docker push gabrielchong1994/multi-server
   - docker push gabrielchong1994/multi-worker
-
-
